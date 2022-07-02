@@ -4,10 +4,15 @@
 1.	Problem Statement
 2.	Approach:
 3.	Analysis Results
-a.	User Segment: Members who are in the majority age group of 25 to 45 years old
-b.	User Segment: Members who are not covered under insurance
-c.	Customised strategies according to the top 10 diagnoses 
-d.	Other interesting insights
+
+    a.	User Segment: Members who are in the majority age group of 25 to 45 years old
+    
+    b.	User Segment: Members who are not covered under insurance
+    
+    c.	Customised strategies according to the top 10 diagnoses 
+    
+    d.	Other interesting insights
+    
 4.	Additional data required for more insights
 5.	Visualisation tool and how it can be maintained 
 
